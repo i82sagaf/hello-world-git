@@ -85,3 +85,22 @@ export  $initHighlight;
 | Maxi   | Burgos   | 34523532  |
 | Maxi1  | Burgos2  | 34523532  |
 
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior.
+> Esto es otra cita
+
+# Líneas Divisoras
+Esto es un texto que se ha dividido por guiones medios.
+
+---
+Esto es otro texto dividido por asteriscos.
+
+***
+
+Esto es otro texto dividido por guiones bajos.
+
+___
+
